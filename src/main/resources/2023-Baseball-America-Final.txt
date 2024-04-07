@@ -1,0 +1,100 @@
+Jackson Holliday,Baltimore Orioles,SS
+Jackson Chourio,Milwaukee Brewers,OF
+Dylan Crews,Washington Nationals,OF
+Paul Skenes,Pittsburgh Pirates,RHP
+Junior Caminero,Tampa Bay Rays,3B
+Ethan Salas,San Diego Padres,C
+James Wood,Washington Nationals,OF
+Wyatt Langford,Texas Rangers,OF
+Jordan Lawlar,Arizona Diamondbacks,SS
+Evan Carter,Texas Rangers,OF
+Colton Cowser,Baltimore Orioles,OF
+Pete Crow-Armstrong,Chicago Cubs,OF
+Jackson Merrill,San Diego Padres,SS
+Colson Montgomery,Chicago White Sox,SS
+Marcelo Mayer,Boston Red Sox,SS
+Walker Jenkins,Minnesota Twins,OF
+Cade Horton,Chicago Cubs,RHP
+Colt Keith,Detroit Tigers,3B
+Roman Anthony,Boston Red Sox,OF
+Max Clark,Detroit Tigers,OF
+Adael Amador,Colorado Rockies,SS
+Carson Williams,Tampa Bay Rays,SS
+Coby Mayo,Baltimore Orioles,3B
+Brooks Lee,Minnesota Twins,SS
+Andrew Painter,Philadelphia Phillies,RHP
+Tink Hence,St. Louis Cardinals,RHP
+Masyn Winn,St. Louis Cardinals,SS
+Tyler Soderstrom,Oakland Athletics,C
+Jeferson Quero,Milwaukee Brewers,C
+Kyle Harrison,San Francisco Giants,LHP
+Noah Schultz,Chicago White Sox,LHP
+Jacob Misiorowski,Milwaukee Brewers,RHP
+Ricky Tiedemann,Toronto Blue Jays,LHP
+Brayan Rocchio,Cleveland Guardians,SS
+Mick Abel,Philadelphia Phillies,RHP
+Dylan Lesko,San Diego Padres,RHP
+Robby Snelling,San Diego Padres,LHP
+Shane Baz,Tampa Bay Rays,RHP
+AJ Smith-Shawver,Atlanta Braves,RHP
+Chase Dollander,Colorado Rockies,RHP
+Noble Meyer,Miami Marlins,RHP
+Samuel Basallo,Baltimore Orioles,C
+Heston Kjerstad,Baltimore Orioles,OF
+Dalton Rushing,Los Angeles Dodgers,C
+Rhett Lowder,Cincinnati Reds,RHP
+Noelvi Marte,Cincinnati Reds,3B
+Yanquiel Fernandez,Colorado Rockies,OF
+Mason Miller,Oakland Athletics,RHP
+Chase Hampton,New York Yankees,RHP
+Emmanuel Rodriguez,Minnesota Twins,OF
+Orelvis Martinez,Toronto Blue Jays,SS
+Jackson Jobe,Detroit Tigers,RHP
+Curtis Mead,Tampa Bay Rays,2B
+Brady House,Washington Nationals,SS
+Jasson Dominguez,New York Yankees,OF
+Luisangel Acuna,New York Mets,SS
+Marco Luciano,San Francisco Giants,SS
+Kyle Manzardo,Cleveland Guardians,1B
+Jared Jones,Pittsburgh Pirates,RHP
+Gavin Stone,Los Angeles Dodgers,RHP
+Harry Ford,Seattle Mariners,C
+Cole Young,Seattle Mariners,SS
+Joey Ortiz,Baltimore Orioles,SS
+Max Meyer,Miami Marlins,RHP
+Michael Busch,Los Angeles Dodgers,2B
+Gabriel Gonzalez,Seattle Mariners,OF
+Daniel Espino,Cleveland Guardians,RHP
+Jacob Wilson,Oakland Athletics,SS
+Everson Pereira,New York Yankees,OF
+Edgar Quero,Chicago White Sox,C
+Termarr Johnson,Pittsburgh Pirates,2B
+Miguel Bleis,Boston Red Sox,OF
+Justin Crawford,Philadelphia Phillies,OF
+Sebastian Walcott,Texas Rangers,SS
+Austin Wells,New York Yankees,C
+Spencer Jones,New York Yankees,OF
+Drew Gilbert,New York Mets,OF
+Druw Jones,Arizona Diamondbacks,OF
+Tommy Troy,Arizona Diamondbacks,SS
+Matt Shaw,Chicago Cubs,SS
+Owen White,Texas Rangers,RHP
+Robert Gasser,Milwaukee Brewers,LHP
+Denzel Clarke,Oakland Athletics,OF
+Tyler Black,Milwaukee Brewers,3B
+Kyle Teel,Boston Red Sox,C
+Connor Phillips,Cincinnati Reds,RHP
+Roderick Arias,New York Yankees,SS
+Ryan Clifford,New York Mets,OF
+Jett Williams,New York Mets,SS
+Chase DeLauter,Cleveland Guardians,OF
+Tyler Locklear,Seattle Mariners,1B
+Jairo Iriarte,San Diego Padres,RHP
+Owen Caissie,Chicago Cubs,OF
+Juan Brito,Cleveland Guardians,2B
+Hurston Waldrep,Atlanta Braves,RHP
+Drew Thorpe,New York Yankees,RHP
+Jace Jung,Detroit Tigers,2B
+Ronny Mauricio,New York Mets,2B
+Xavier Isaac,Tampa Bay Rays,1B
+Colt Emerson,Seattle Mariners,SS

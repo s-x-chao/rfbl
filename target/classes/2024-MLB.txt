@@ -1,0 +1,101 @@
+#RANK,PLAYER,POSITION,TEAM,LEVEL,ETA,AGE,HEIGHT / WEIGHT,BATS,THROWS
+1,Jackson Holliday,SS/2B,Baltimore Orioles Logo,Baltimore Orioles,AAA,2024,20,"6' 0" / 185 lbs",L,R
+2,Jackson Chourio,OF,Milwaukee Brewers Logo,Milwaukee Brewers,MLB,2024,20,"5' 11" / 198 lbs",R,R
+3,Paul Skenes,RHP,Pittsburgh Pirates Logo,Pittsburgh Pirates,AAA,2024,21,"6' 6" / 235 lbs",R,R
+4,Junior Caminero,3B/SS,Tampa Bay Rays Logo,Tampa Bay Rays,AAA,2024,20,"6' 1" / 157 lbs",R,R
+5,Evan Carter,OF,Texas Rangers Logo,Texas Rangers,MLB,2024,21,"6' 2" / 190 lbs",L,R
+6,Wyatt Langford,OF,Texas Rangers Logo,Texas Rangers,MLB,2024,22,"6' 1" / 225 lbs",R,R
+7,Dylan Crews,OF,Washington Nationals Logo,Washington Nationals,AA,2024,22,"6' 0" / 203 lbs",R,R
+8,Ethan Salas,C,San Diego Padres Logo,San Diego Padres,AA,2025,17,"6' 2" / 185 lbs",L,R
+9,Colson Montgomery,SS,Chicago White Sox Logo,Chicago White Sox,AAA,2024,22,"6' 3" / 225 lbs",L,R
+10,Walker Jenkins,OF,Minnesota Twins Logo,Minnesota Twins,A,2026,19,"6' 3" / 210 lbs",L,R
+11,Jordan Lawlar,SS,Arizona Diamondbacks Logo,Arizona Diamondbacks,AAA,2024,21,"6' 1" / 190 lbs",R,R
+12,Jackson Merrill,SS/OF,San Diego Padres Logo,San Diego Padres,MLB,2024,20,"6' 3" / 195 lbs",L,R
+13,Max Clark,OF,Detroit Tigers Logo,Detroit Tigers,A,2026,19,"6' 1" / 205 lbs",L,L
+14,James Wood,OF,Washington Nationals Logo,Washington Nationals,AAA,2024,21,"6' 7" / 234 lbs",L,R
+15,Marcelo Mayer,SS,Boston Red Sox Logo,Boston Red Sox,AA,2024,21,"6' 2" / 188 lbs",L,R
+16,Pete Crow-Armstrong,OF,Chicago Cubs Logo,Chicago Cubs,AAA,2024,22,"5' 11" / 184 lbs",L,L
+17,Samuel Basallo,C/1B,Baltimore Orioles Logo,Baltimore Orioles,AA,2025,19,"6' 3" / 180 lbs",L,R
+18,Brooks Lee,SS,Minnesota Twins Logo,Minnesota Twins,AAA,2024,23,"5' 11" / 205 lbs",S,R
+19,Carson Williams,SS,Tampa Bay Rays Logo,Tampa Bay Rays,AA,2025,20,"6' 1" / 180 lbs",R,R
+20,Noelvi Marte,3B/SS,Cincinnati Reds Logo,Cincinnati Reds,MLB,2024,22,"6' 0" / 216 lbs",R,R
+21,Colt Keith,3B/2B,Detroit Tigers Logo,Detroit Tigers,MLB,2024,22,"6' 2" / 211 lbs",L,R
+22,Kyle Harrison,LHP,San Francisco Giants Logo,San Francisco Giants,MLB,2024,22,"6' 2" / 200 lbs",R,L
+23,Roman Anthony,OF,Boston Red Sox Logo,Boston Red Sox,AA,2025,19,"6' 2" / 200 lbs",L,R
+24,Jackson Jobe,RHP,Detroit Tigers Logo,Detroit Tigers,AA,2025,21,"6' 2" / 190 lbs",R,R
+25,Cade Horton,RHP,Chicago Cubs Logo,Chicago Cubs,AA,2024,22,"6' 1" / 211 lbs",R,R
+26,Andrew Painter,RHP,Philadelphia Phillies Logo,Philadelphia Phillies,AA,2025,20,"6' 7" / 215 lbs",R,R
+27,Adael Amador,SS/2B,Colorado Rockies Logo,Colorado Rockies,AA,2025,20,"6' 0" / 200 lbs",S,R
+28,Ricky Tiedemann,LHP,Toronto Blue Jays Logo,Toronto Blue Jays,AAA,2024,21,"6' 4" / 220 lbs",L,L
+29,Coby Mayo,3B/1B,Baltimore Orioles Logo,Baltimore Orioles,AAA,2024,22,"6' 5" / 230 lbs",R,R
+30,Chase DeLauter,OF,Cleveland Guardians Logo,Cleveland Guardians,AA,2025,22,"6' 4" / 235 lbs",L,L
+31,Heston Kjerstad,OF,Baltimore Orioles Logo,Baltimore Orioles,AAA,2024,25,"6' 3" / 205 lbs",L,R
+32,Jacob Misiorowski,RHP,Milwaukee Brewers Logo,Milwaukee Brewers,AA,2025,21,"6' 7" / 190 lbs",R,R
+33,Rhett Lowder,RHP,Cincinnati Reds Logo,Cincinnati Reds,A+,2024,22,"6' 2" / 200 lbs",R,R
+34,Jeferson Quero,C,Milwaukee Brewers Logo,Milwaukee Brewers,AAA,2024,21,"5' 11" / 215 lbs",R,R
+35,Robby Snelling,LHP,San Diego Padres Logo,San Diego Padres,AA,2025,20,"6' 3" / 210 lbs",R,L
+36,Cole Young,SS/2B,Seattle Mariners Logo,Seattle Mariners,A+,2025,20,"6' 0" / 180 lbs",L,R
+37,Harry Ford,C,Seattle Mariners Logo,Seattle Mariners,A+,2025,21,"5' 10" / 200 lbs",R,R
+38,Marco Luciano,SS,San Francisco Giants Logo,San Francisco Giants,AAA,2024,22,"6' 1" / 178 lbs",R,R
+39,Kyle Teel,C,Boston Red Sox Logo,Boston Red Sox,AA,2025,22,"6' 1" / 190 lbs",L,R
+40,Jasson Domínguez,OF,New York Yankees Logo,New York Yankees,MLB,2024,21,"5' 9" / 190 lbs",S,R
+41,Emmanuel Rodriguez,OF,Minnesota Twins Logo,Minnesota Twins,AA,2025,21,"5' 10" / 210 lbs",L,L
+42,Termarr Johnson,2B,Pittsburgh Pirates Logo,Pittsburgh Pirates,A+,2025,19,"5' 8" / 175 lbs",L,R
+43,Jett Williams,SS/OF,New York Mets Logo,New York Mets,AA,2025,20,"5' 6" / 175 lbs",R,R
+44,Tyler Black,3B/1B,Milwaukee Brewers Logo,Milwaukee Brewers,AAA,2024,23,"5' 10" / 204 lbs",L,R
+45,Owen Caissie,OF,Chicago Cubs Logo,Chicago Cubs,AAA,2025,21,"6' 3" / 190 lbs",L,R
+46,Brady House,3B,Washington Nationals Logo,Washington Nationals,AA,2025,20,"6' 4" / 208 lbs",R,R
+47,Mick Abel,RHP,Philadelphia Phillies Logo,Philadelphia Phillies,AAA,2024,22,"6' 5" / 190 lbs",R,R
+48,Noah Schultz,LHP,Chicago White Sox Logo,Chicago White Sox,A,2026,20,"6' 9" / 220 lbs",L,L
+49,Chase Dollander,RHP,Colorado Rockies Logo,Colorado Rockies,ROK,2026,22,"6' 2" / 200 lbs",R,R
+50,Drew Gilbert,OF,New York Mets Logo,New York Mets,AAA,2024,23,"5' 9" / 195 lbs",L,L
+51,Matt Shaw,SS/2B,Chicago Cubs Logo,Chicago Cubs,AA,2025,22,"5' 11" / 185 lbs",R,R
+52,Curtis Mead,3B/2B,Tampa Bay Rays Logo,Tampa Bay Rays,MLB,2024,23,"6' 0" / 171 lbs",R,R
+53,Dylan Lesko,RHP,San Diego Padres Logo,San Diego Padres,A+,2026,20,"6' 2" / 195 lbs",R,R
+54,Noble Meyer,RHP,Miami Marlins Logo,Miami Marlins,A,2026,19,"6' 5" / 185 lbs",R,R
+55,Xavier Isaac,1B,Tampa Bay Rays Logo,Tampa Bay Rays,A,2026,20,"6' 3" / 240 lbs",L,L
+56,Kyle Manzardo,1B,Cleveland Guardians Logo,Cleveland Guardians,AAA,2024,23,"6' 0" / 205 lbs",L,R
+57,Jace Jung,2B/3B,Detroit Tigers Logo,Detroit Tigers,AAA,2024,23,"6' 0" / 205 lbs",L,R
+58,Aidan Miller,3B/SS,Philadelphia Phillies Logo,Philadelphia Phillies,A,2027,19,"6' 2" / 205 lbs",R,R
+59,Jared Jones,RHP,Pittsburgh Pirates Logo,Pittsburgh Pirates,MLB,2024,22,"6' 1" / 190 lbs",L,R
+60,Joey Ortiz,INF,Milwaukee Brewers Logo,Milwaukee Brewers,MLB,2024,25,"5' 9" / 183 lbs",R,R
+61,Tink Hence,RHP,St. Louis Cardinals Logo,St. Louis Cardinals,AA,2024,21,"6' 1" / 195 lbs",R,R
+62,Kevin Alcántara,OF,Chicago Cubs Logo,Chicago Cubs,AA,2025,21,"6' 6" / 188 lbs",R,R
+63,Luisangel Acuña,SS/2B,New York Mets Logo,New York Mets,AAA,2024,22,"5' 8" / 181 lbs",R,R
+64,Edwin Arroyo,SS,Cincinnati Reds Logo,Cincinnati Reds,AA,2026,20,"6' 0" / 175 lbs",S,R
+65,Jacob Wilson,SS,Oakland Athletics Logo,Oakland Athletics,A+,2025,22,"6' 3" / 190 lbs",R,R
+66,AJ Smith-Shawver,RHP,Atlanta Braves Logo,Atlanta Braves,AAA,2024,21,"6' 3" / 205 lbs",R,R
+67,Connor Phillips,RHP,Cincinnati Reds Logo,Cincinnati Reds,AAA,2024,22,"6' 2" / 209 lbs",R,R
+68,Sebastian Walcott,SS,Texas Rangers Logo,Texas Rangers,A+,2027,18,"6' 4" / 190 lbs",R,R
+69,Yanquiel Fernandez,OF,Colorado Rockies Logo,Colorado Rockies,AA,2025,21,"6' 2" / 198 lbs",L,L
+70,James Triantos,2B,Chicago Cubs Logo,Chicago Cubs,AA,2025,21,"6' 1" / 195 lbs",R,R
+71,Tommy Troy,SS,Arizona Diamondbacks Logo,Arizona Diamondbacks,A+,2025,22,"5' 10" / 197 lbs",R,R
+72,Dalton Rushing,C/1B,Los Angeles Dodgers Logo,Los Angeles Dodgers,A+,2025,23,"6' 1" / 220 lbs",L,R
+73,Ceddanne Rafaela,OF/SS,Boston Red Sox Logo,Boston Red Sox,MLB,2024,23,"5' 9" / 165 lbs",R,R
+74,Justin Crawford,OF,Philadelphia Phillies Logo,Philadelphia Phillies,A+,2026,20,"6' 4" / 188 lbs",L,R
+75,Druw Jones,OF,Arizona Diamondbacks Logo,Arizona Diamondbacks,A,2026,20,"6' 4" / 180 lbs",R,R
+76,Gabriel Gonzalez,OF,Minnesota Twins Logo,Minnesota Twins,A+,2026,20,"5' 10" / 165 lbs",R,R
+77,Nick Frasso,RHP,Los Angeles Dodgers Logo,Los Angeles Dodgers,AAA,2025,25,"6' 5" / 200 lbs",R,R
+78,Jordan Beck,OF,Colorado Rockies Logo,Colorado Rockies,AAA,2025,22,"6' 2" / 225 lbs",R,R
+79,Anthony Solometo,LHP,Pittsburgh Pirates Logo,Pittsburgh Pirates,AA,2024,21,"6' 5" / 220 lbs",L,L
+80,Carson Whisenhunt,LHP,San Francisco Giants Logo,San Francisco Giants,AAA,2024,23,"6' 3" / 209 lbs",L,L
+81,Spencer Jones,OF,New York Yankees Logo,New York Yankees,AA,2025,22,"6' 6" / 235 lbs",L,L
+82,Drew Thorpe,RHP,Chicago White Sox Logo,Chicago White Sox,AA,2024,23,"6' 4" / 212 lbs",L,R
+83,Roderick Arias,SS,New York Yankees Logo,New York Yankees,ROK,2027,19,"6' 0" / 178 lbs",S,R
+84,Colt Emerson,SS/2B,Seattle Mariners Logo,Seattle Mariners,A,2026,18,"6' 1" / 195 lbs",L,R
+85,Brock Porter,RHP,Texas Rangers Logo,Texas Rangers,A,2026,20,"6' 4" / 208 lbs",R,R
+86,Orelvis Martinez,INF,Toronto Blue Jays Logo,Toronto Blue Jays,AAA,2024,22,"5' 11" / 200 lbs",R,R
+87,Hurston Waldrep,RHP,Atlanta Braves Logo,Atlanta Braves,AAA,2024,22,"6' 2" / 210 lbs",R,R
+88,Brayan Rocchio,SS/2B,Cleveland Guardians Logo,Cleveland Guardians,MLB,2024,23,"5' 10" / 170 lbs",S,R
+89,Chase Hampton,RHP,New York Yankees Logo,New York Yankees,AA,2024,22,"6' 2" / 220 lbs",R,R
+90,Bubba Chandler,RHP,Pittsburgh Pirates Logo,Pittsburgh Pirates,AA,2025,21,"6' 2" / 200 lbs",S,R
+91,Blake Mitchell,C,Kansas City Royals Logo,Kansas City Royals,ROK,2027,19,"6' 1" / 202 lbs",L,R
+92,Bryce Eldridge,OF/1B,San Francisco Giants Logo,San Francisco Giants,A,2026,19,"6' 7" / 223 lbs",L,R
+93,Ryan Clifford,OF/1B,New York Mets Logo,New York Mets,A+,2026,20,"6' 3" / 200 lbs",L,L
+94,Chase Petty,RHP,Cincinnati Reds Logo,Cincinnati Reds,AA,2025,20,"6' 1" / 190 lbs",R,R
+95,Tekoah Roby,RHP,St. Louis Cardinals Logo,St. Louis Cardinals,AA,2024,22,"6' 1" / 210 lbs",R,R
+96,Victor Scott II,OF,St. Louis Cardinals Logo,St. Louis Cardinals,MLB,2024,23,"5' 10" / 190 lbs",L,L
+97,Jacob Melton,OF,Houston Astros Logo,Houston Astros,AA,2025,23,"6' 3" / 208 lbs",L,L
+98,Leodalis De Vries,SS,San Diego Padres Logo,San Diego Padres,ROK,2028,17,"6' 2" / 183 lbs",S,R
+99,Andy Pages,OF,Los Angeles Dodgers Logo,Los Angeles Dodgers,AAA,2024,23,"6' 0" / 212 lbs",R,R
+100,Josue De Paula,OF,Los Angeles Dodgers Logo,Los Angeles Dodgers,A,2026,18,"6' 3" / 185 lbs",L,L

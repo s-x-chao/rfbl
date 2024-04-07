@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: schao30
+Build-Jdk: 15.0.1
+Implementation-Title: rfbl-player-search
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/rfbl-player-se
+ arch/
+Created-By: Maven Integration for Eclipse
+

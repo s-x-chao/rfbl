@@ -1,0 +1,285 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.5.1.RELEASE)
+
+2024-03-31 21:22:10.758  INFO 21928 --- [           main] player.PlayerSearcher                    : Starting PlayerSearcher on DESKTOP-VCLTJI6 with PID 21928 (C:\Users\ChaoSean\git\rfbl\target\classes started by schao30 in C:\Users\ChaoSean\git\rfbl)
+2024-03-31 21:22:10.760 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2024-03-31 21:22:10.760  INFO 21928 --- [           main] player.PlayerSearcher                    : No active profile set, falling back to default profiles: default
+2024-03-31 21:22:10.784  INFO 21928 --- [           main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@79351f41: startup date [Sun Mar 31 21:22:10 EDT 2024]; root of context hierarchy
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.springframework.cglib.core.ReflectUtils$1 (file:/C:/Users/ChaoSean/.m2/repository/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+WARNING: Please consider reporting this to the maintainers of org.springframework.cglib.core.ReflectUtils$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+2024-03-31 21:22:11.469  INFO 21928 --- [           main] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2024-03-31 21:22:11.470  INFO 21928 --- [           main] org.mongodb.driver.cluster               : Adding discovered server localhost:27017 to client view of cluster
+2024-03-31 21:22:11.522  INFO 21928 --- [localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:3}] to localhost:27017
+2024-03-31 21:22:11.522  INFO 21928 --- [localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 4, 3]}, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, roundTripTimeNanos=238801}
+2024-03-31 21:22:11.523  INFO 21928 --- [localhost:27017] org.mongodb.driver.cluster               : Discovered cluster type of STANDALONE
+2024-03-31 21:22:11.711  INFO 21928 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2024-03-31 21:22:11.741  INFO 21928 --- [           main] player.PlayerSearcher                    : Searching for players listed in 2024-Baseball-America-Spring.
+2024-03-31 21:22:11.747 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jackson Holliday
+2024-03-31 21:22:12.136  INFO 21928 --- [           main] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:4}] to localhost:27017
+2024-03-31 21:22:12.179 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #1.Jackson Holliday.
+2024-03-31 21:22:12.179 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jackson Chourio
+2024-03-31 21:22:12.328 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #2.Jackson Chourio.
+2024-03-31 21:22:12.328 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Junior Caminero
+2024-03-31 21:22:12.478 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #3.Junior Caminero.
+2024-03-31 21:22:12.478 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Evan Carter
+2024-03-31 21:22:12.630 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #4.Evan Carter.
+2024-03-31 21:22:12.630  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 4 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:12.630  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Evan Carter, fantasy_team_name=Waiting for Greatness, mlb_team=TEX, free_agent=false, eligible_positions=[OF, U]]
+2024-03-31 21:22:12.630 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Wyatt Langford
+2024-03-31 21:22:12.776 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #5.Wyatt Langford.
+2024-03-31 21:22:12.776 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Dylan Crews
+2024-03-31 21:22:12.925 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #6.Dylan Crews.
+2024-03-31 21:22:12.925 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jordan Lawlar
+2024-03-31 21:22:13.076 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #7.Jordan Lawlar.
+2024-03-31 21:22:13.076 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Ethan Salas
+2024-03-31 21:22:13.246 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #8.Ethan Salas.
+2024-03-31 21:22:13.246 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Paul Skenes
+2024-03-31 21:22:13.390 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #9.Paul Skenes.
+2024-03-31 21:22:13.390  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 9 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:13.391  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Paul Skenes, fantasy_team_name=Waiting for Greatness, mlb_team=PIT, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:13.391 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Samuel Basallo
+2024-03-31 21:22:13.566 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #10.Samuel Basallo.
+2024-03-31 21:22:13.566 DEBUG 21928 --- [           main] player.PlayerSearcher                    : James Wood
+2024-03-31 21:22:13.713 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #11.James Wood.
+2024-03-31 21:22:13.713 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Andrew Painter
+2024-03-31 21:22:13.879 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #12.Andrew Painter.
+2024-03-31 21:22:13.879  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 12 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:13.879  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Andrew Painter, fantasy_team_name=Waiting for Greatness, mlb_team=PHI, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:13.879 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Walker Jenkins
+2024-03-31 21:22:14.030 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #13.Walker Jenkins.
+2024-03-31 21:22:14.030 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Marcelo Mayer
+2024-03-31 21:22:14.168 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #14.Marcelo Mayer.
+2024-03-31 21:22:14.168 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Colson Montgomery
+2024-03-31 21:22:14.307 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #15.Colson Montgomery.
+2024-03-31 21:22:14.307  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 15 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:14.307  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Colson Montgomery, fantasy_team_name=Waiting for Greatness, mlb_team=CHW, free_agent=false, eligible_positions=[MI, SS, U]]
+2024-03-31 21:22:14.307 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jasson Dominguez
+2024-03-31 21:22:14.470 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #16.Jasson Dominguez.
+2024-03-31 21:22:14.470 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jackson Merrill
+2024-03-31 21:22:14.649 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #17.Jackson Merrill.
+2024-03-31 21:22:14.649 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Pete Crow-Armstrong
+2024-03-31 21:22:14.807 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #18.Pete Crow-Armstrong.
+2024-03-31 21:22:14.808 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Max Clark
+2024-03-31 21:22:14.970 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #19.Max Clark.
+2024-03-31 21:22:14.970 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jackson Jobe
+2024-03-31 21:22:15.156 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #20.Jackson Jobe.
+2024-03-31 21:22:15.156 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Roman Anthony
+2024-03-31 21:22:15.326 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #21.Roman Anthony.
+2024-03-31 21:22:15.326 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Ricky Tiedemann
+2024-03-31 21:22:15.495 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #22.Ricky Tiedemann.
+2024-03-31 21:22:15.495 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Noelvi Marte
+2024-03-31 21:22:15.656 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #23.Noelvi Marte.
+2024-03-31 21:22:15.656 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Cade Horton
+2024-03-31 21:22:15.847 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #24.Cade Horton.
+2024-03-31 21:22:15.847 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Coby Mayo
+2024-03-31 21:22:16.042 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #25.Coby Mayo.
+2024-03-31 21:22:16.042 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Kyle Harrison
+2024-03-31 21:22:16.217 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #26.Kyle Harrison.
+2024-03-31 21:22:16.217 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Robby Snelling
+2024-03-31 21:22:16.378 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #27.Robby Snelling.
+2024-03-31 21:22:16.379 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Colt Keith
+2024-03-31 21:22:16.549 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #28.Colt Keith.
+2024-03-31 21:22:16.550 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Chase DeLauter
+2024-03-31 21:22:16.728 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #29.Chase DeLauter.
+2024-03-31 21:22:16.728 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jett Williams
+2024-03-31 21:22:16.951 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #30.Jett Williams.
+2024-03-31 21:22:16.951 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Matt Shaw
+2024-03-31 21:22:17.141 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #31.Matt Shaw.
+2024-03-31 21:22:17.141 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jacob Misiorowski
+2024-03-31 21:22:17.279 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #32.Jacob Misiorowski.
+2024-03-31 21:22:17.279  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 32 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:17.279  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Jacob Misiorowski, fantasy_team_name=Waiting for Greatness, mlb_team=MIL, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:17.279 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jeferson Quero
+2024-03-31 21:22:17.439 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #33.Jeferson Quero.
+2024-03-31 21:22:17.439  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 33 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:17.439  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Jeferson Quero, fantasy_team_name=Waiting for Greatness, mlb_team=MIL, free_agent=false, eligible_positions=[C, U]]
+2024-03-31 21:22:17.439 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Colton Cowser
+2024-03-31 21:22:17.592 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #34.Colton Cowser.
+2024-03-31 21:22:17.592 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Brooks Lee
+2024-03-31 21:22:17.774 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #35.Brooks Lee.
+2024-03-31 21:22:17.774 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Adael Amador
+2024-03-31 21:22:17.967 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #36.Adael Amador.
+2024-03-31 21:22:17.967 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Carson Williams
+2024-03-31 21:22:18.153 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #37.Carson Williams.
+2024-03-31 21:22:18.153 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Dylan Lesko
+2024-03-31 21:22:18.316 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #38.Dylan Lesko.
+2024-03-31 21:22:18.316 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Masyn Winn
+2024-03-31 21:22:18.461 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #39.Masyn Winn.
+2024-03-31 21:22:18.461 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Noah Schultz
+2024-03-31 21:22:18.604 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #40.Noah Schultz.
+2024-03-31 21:22:18.604 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Heston Kjerstad
+2024-03-31 21:22:18.789 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #41.Heston Kjerstad.
+2024-03-31 21:22:18.790 DEBUG 21928 --- [           main] player.PlayerSearcher                    : AJ Smith-Shawver
+2024-03-31 21:22:19.060 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #42.AJ Smith-Shawver.
+2024-03-31 21:22:19.060  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 42 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:19.060  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=AJ Smith-Shawver, fantasy_team_name=Waiting for Greatness, mlb_team=ATL, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:19.060 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Michael Busch
+2024-03-31 21:22:19.259 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #43.Michael Busch.
+2024-03-31 21:22:19.259 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Cole Young
+2024-03-31 21:22:19.417 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #44.Cole Young.
+2024-03-31 21:22:19.417 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Mason Miller
+2024-03-31 21:22:19.585 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #45.Mason Miller.
+2024-03-31 21:22:19.585 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Spencer Jones
+2024-03-31 21:22:19.740 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #46.Spencer Jones.
+2024-03-31 21:22:19.740 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Owen Caissie
+2024-03-31 21:22:19.901 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #47.Owen Caissie.
+2024-03-31 21:22:19.901  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 47 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:19.901  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Owen Caissie, fantasy_team_name=null, mlb_team=CHC, free_agent=true, eligible_positions=[OF, U]]
+2024-03-31 21:22:19.901 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Noble Meyer
+2024-03-31 21:22:20.068 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #48.Noble Meyer.
+2024-03-31 21:22:20.069 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Hurston Waldrep
+2024-03-31 21:22:20.213 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #49.Hurston Waldrep.
+2024-03-31 21:22:20.213 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Dalton Rushing
+2024-03-31 21:22:20.352 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #50.Dalton Rushing.
+2024-03-31 21:22:20.352  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 50 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:20.352  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Dalton Rushing, fantasy_team_name=null, mlb_team=LAD, free_agent=true, eligible_positions=[C, U]]
+2024-03-31 21:22:20.352 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Harry Ford
+2024-03-31 21:22:20.506 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #51.Harry Ford.
+2024-03-31 21:22:20.506 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Colt Emerson
+2024-03-31 21:22:20.669 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #52.Colt Emerson.
+2024-03-31 21:22:20.669 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Emmanuel Rodriguez
+2024-03-31 21:22:20.807 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #53.Emmanuel Rodriguez.
+2024-03-31 21:22:20.807 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Sebastian Walcott
+2024-03-31 21:22:20.955 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #54.Sebastian Walcott.
+2024-03-31 21:22:20.955 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Brady House
+2024-03-31 21:22:21.118 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #55.Brady House.
+2024-03-31 21:22:21.118 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Marco Luciano
+2024-03-31 21:22:21.269 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #56.Marco Luciano.
+2024-03-31 21:22:21.269 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Bryce Eldridge
+2024-03-31 21:22:21.455 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #57.Bryce Eldridge.
+2024-03-31 21:22:21.455  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 57 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:21.455  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Bryce Eldridge, fantasy_team_name=Waiting for Greatness, mlb_team=SF, free_agent=false, eligible_positions=[OF, U]]
+2024-03-31 21:22:21.455 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Drew Thorpe
+2024-03-31 21:22:21.626 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #58.Drew Thorpe.
+2024-03-31 21:22:21.626 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Bubba Chandler
+2024-03-31 21:22:21.776 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #59.Bubba Chandler.
+2024-03-31 21:22:21.776 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Rhett Lowder
+2024-03-31 21:22:21.953 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #60.Rhett Lowder.
+2024-03-31 21:22:21.954  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 60 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:21.954  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Rhett Lowder, fantasy_team_name=Waiting for Greatness, mlb_team=CIN, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:21.954 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Chase Dollander
+2024-03-31 21:22:22.144 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #61.Chase Dollander.
+2024-03-31 21:22:22.144 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Kyle Teel
+2024-03-31 21:22:22.309 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #62.Kyle Teel.
+2024-03-31 21:22:22.310 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Justin Crawford
+2024-03-31 21:22:22.455 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #63.Justin Crawford.
+2024-03-31 21:22:22.455  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 63 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:22.455  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Justin Crawford, fantasy_team_name=null, mlb_team=PHI, free_agent=true, eligible_positions=[OF, U]]
+2024-03-31 21:22:22.455 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Mick Abel
+2024-03-31 21:22:22.615 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #64.Mick Abel.
+2024-03-31 21:22:22.615 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Curtis Mead
+2024-03-31 21:22:22.767 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #65.Curtis Mead.
+2024-03-31 21:22:22.767 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Shane Baz
+2024-03-31 21:22:22.918 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #66.Shane Baz.
+2024-03-31 21:22:22.918 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Everson Pereira
+2024-03-31 21:22:23.088 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #67.Everson Pereira.
+2024-03-31 21:22:23.088  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 67 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:23.088  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Everson Pereira, fantasy_team_name=Waiting for Greatness, mlb_team=NYY, free_agent=false, eligible_positions=[OF, U]]
+2024-03-31 21:22:23.088 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Roderick Arias
+2024-03-31 21:22:23.278 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #68.Roderick Arias.
+2024-03-31 21:22:23.278 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Xavier Isaac
+2024-03-31 21:22:23.425 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #69.Xavier Isaac.
+2024-03-31 21:22:23.426 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Tyler Black
+2024-03-31 21:22:23.564 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #70.Tyler Black.
+2024-03-31 21:22:23.564 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Austin Wells
+2024-03-31 21:22:23.729 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #71.Austin Wells.
+2024-03-31 21:22:23.729 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Chase Hampton
+2024-03-31 21:22:23.886 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #72.Chase Hampton.
+2024-03-31 21:22:23.886  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 72 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:23.886  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Chase Hampton, fantasy_team_name=Waiting for Greatness, mlb_team=NYY, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:23.886 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Tyler Soderstrom
+2024-03-31 21:22:24.049 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #73.Tyler Soderstrom.
+2024-03-31 21:22:24.049 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jared Jones
+2024-03-31 21:22:24.211 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #74.Jared Jones.
+2024-03-31 21:22:24.211  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 74 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:24.211  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Jared Jones, fantasy_team_name=Waiting for Greatness, mlb_team=PIT, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:24.211 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Tekoah Roby
+2024-03-31 21:22:24.407 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #75.Tekoah Roby.
+2024-03-31 21:22:24.407  INFO 21928 --- [           main] player.PlayerSearcher                    :  *** Future superstar alert: Ranked 75 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:24.407  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Tekoah Roby, fantasy_team_name=Waiting for Greatness, mlb_team=STL, free_agent=false, eligible_positions=[P]]
+2024-03-31 21:22:24.407 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jacob Wilson
+2024-03-31 21:22:24.564 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #76.Jacob Wilson.
+2024-03-31 21:22:24.564  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 76 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:24.564  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Jacob Wilson, fantasy_team_name=null, mlb_team=OAK, free_agent=true, eligible_positions=[MI, SS, U]]
+2024-03-31 21:22:24.564 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Termarr Johnson
+2024-03-31 21:22:24.726 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #77.Termarr Johnson.
+2024-03-31 21:22:24.726 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Connor Phillips
+2024-03-31 21:22:24.876 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #78.Connor Phillips.
+2024-03-31 21:22:24.877  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 78 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:24.877  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Connor Phillips, fantasy_team_name=null, mlb_team=CIN, free_agent=true, eligible_positions=[P]]
+2024-03-31 21:22:24.877 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Luis Morales
+2024-03-31 21:22:25.036 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #79.Luis Morales.
+2024-03-31 21:22:25.036  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 79 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:25.036  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Luis Morales, fantasy_team_name=null, mlb_team=OAK, free_agent=true, eligible_positions=[P]]
+2024-03-31 21:22:25.036 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Brayan Rocchio
+2024-03-31 21:22:25.198 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #80.Brayan Rocchio.
+2024-03-31 21:22:25.198 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jace Jung
+2024-03-31 21:22:25.343 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #81.Jace Jung.
+2024-03-31 21:22:25.343 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Gavin Stone
+2024-03-31 21:22:25.477 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #82.Gavin Stone.
+2024-03-31 21:22:25.478 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Victor Scott
+2024-03-31 21:22:25.625 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #83.Victor Scott.
+2024-03-31 21:22:25.625 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Tink Hence
+2024-03-31 21:22:25.828 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #84.Tink Hence.
+2024-03-31 21:22:25.829 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Thomas Saggese
+2024-03-31 21:22:25.982 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #85.Thomas Saggese.
+2024-03-31 21:22:25.982  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 85 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:25.982  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Thomas Saggese, fantasy_team_name=null, mlb_team=STL, free_agent=true, eligible_positions=[2B, MI, U]]
+2024-03-31 21:22:25.982 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Nolan Schanuel
+2024-03-31 21:22:26.154 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #86.Nolan Schanuel.
+2024-03-31 21:22:26.154 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Ronny Mauricio
+2024-03-31 21:22:26.314 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #87.Ronny Mauricio.
+2024-03-31 21:22:26.314 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Jacob Melton
+2024-03-31 21:22:26.464 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #88.Jacob Melton.
+2024-03-31 21:22:26.464  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 88 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:26.464  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Jacob Melton, fantasy_team_name=null, mlb_team=HOU, free_agent=true, eligible_positions=[OF, U]]
+2024-03-31 21:22:26.464 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Max Meyer
+2024-03-31 21:22:26.637 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #89.Max Meyer.
+2024-03-31 21:22:26.637 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Orelvis Martinez
+2024-03-31 21:22:26.801 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #90.Orelvis Martinez.
+2024-03-31 21:22:26.801  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 90 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:26.801  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Orelvis Martinez, fantasy_team_name=null, mlb_team=TOR, free_agent=true, eligible_positions=[MI, SS, U]]
+2024-03-31 21:22:26.801 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Drew Gilbert
+2024-03-31 21:22:26.957 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #91.Drew Gilbert.
+2024-03-31 21:22:26.958 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Yanquiel Fernandez
+2024-03-31 21:22:27.107 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #92.Yanquiel Fernandez.
+2024-03-31 21:22:27.107  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 92 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:27.107  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Yanquiel Fernandez, fantasy_team_name=null, mlb_team=COL, free_agent=true, eligible_positions=[OF, U]]
+2024-03-31 21:22:27.107 DEBUG 21928 --- [           main] player.PlayerSearcher                    : DL Hall
+2024-03-31 21:22:27.278 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #93.DL Hall.
+2024-03-31 21:22:27.279 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Ceddanne Rafaela
+2024-03-31 21:22:27.450 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #94.Ceddanne Rafaela.
+2024-03-31 21:22:27.451 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Brayden Taylor
+2024-03-31 21:22:27.681 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #95.Brayden Taylor.
+2024-03-31 21:22:27.681  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 95 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:27.681  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Brayden Taylor, fantasy_team_name=null, mlb_team=TB, free_agent=true, eligible_positions=[3B, CI, U]]
+2024-03-31 21:22:27.681 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Andy Pages
+2024-03-31 21:22:27.866 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #96.Andy Pages.
+2024-03-31 21:22:27.867 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Nick Frasso
+2024-03-31 21:22:28.049 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #97.Nick Frasso.
+2024-03-31 21:22:28.049  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 97 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:28.049  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Nick Frasso, fantasy_team_name=null, mlb_team=LAD, free_agent=true, eligible_positions=[P]]
+2024-03-31 21:22:28.049 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Robert Gasser
+2024-03-31 21:22:28.182 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #98.Robert Gasser.
+2024-03-31 21:22:28.182 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Leodalis De Vries
+2024-03-31 21:22:28.520  WARN 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Leodalis De Vries, fantasy_team_name=null, mlb_team=San Diego Padres, free_agent=false, eligible_positions=[SS]] was not found
+2024-03-31 21:22:28.520 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Lazaro Montes
+2024-03-31 21:22:28.661 DEBUG 21928 --- [           main] player.PlayerSearcher                    : Saving existing player - #100.Lazaro Montes.
+2024-03-31 21:22:28.661  INFO 21928 --- [           main] player.PlayerSearcher                    : Free Agent alert: Ranked 100 by 2024-Baseball-America-Spring :
+2024-03-31 21:22:28.661  INFO 21928 --- [           main] player.PlayerSearcher                    : Player [fullname=Lazaro Montes, fantasy_team_name=null, mlb_team=SEA, free_agent=true, eligible_positions=[OF, U]]
+2024-03-31 21:22:28.661  INFO 21928 --- [           main] player.PlayerSearcher                    : All players listed in 2024-Baseball-America-Spring cataloged.
+2024-03-31 21:22:28.661  INFO 21928 --- [           main] player.PlayerSearcher                    : Saving player list for 2024-Baseball-America-Spring
+2024-03-31 21:22:28.672  INFO 21928 --- [           main] player.PlayerSearcher                    : Completed saving player list for 2024-Baseball-America-Spring
+2024-03-31 21:22:28.673  INFO 21928 --- [           main] player.PlayerSearcher                    : Started PlayerSearcher in 18.073 seconds (JVM running for 18.443)
+2024-03-31 21:22:28.673  INFO 21928 --- [       Thread-1] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@79351f41: startup date [Sun Mar 31 21:22:10 EDT 2024]; root of context hierarchy
+2024-03-31 21:22:28.674  INFO 21928 --- [       Thread-1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2024-03-31 21:22:28.674  INFO 21928 --- [       Thread-1] org.mongodb.driver.connection            : Closed connection [connectionId{localValue:2, serverValue:4}] to localhost:27017 because the pool has been closed.

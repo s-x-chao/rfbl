@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "access_token",
+    "type": "java.lang.String",
+    "description": "A description for 'access_token'"
+  },
+  {
+    "name": "authentication_url",
+    "type": "java.lang.String",
+    "description": "A description for 'authentication_url'"
+  },
+  {
+    "name": "search_url",
+    "type": "java.lang.String",
+    "description": "A description for 'search_url'"
+  }
+]}
